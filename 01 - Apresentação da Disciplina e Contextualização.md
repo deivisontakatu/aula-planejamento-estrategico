@@ -2,9 +2,8 @@
 ## Aula 01 — Apresentação da Disciplina e Contextualização  
 
 **Disciplina:** Planejamento Estratégico de TI  
-**Curso:** [Nome do Curso]  
-**Semestre:** [Ex.: 2026/1]  
-**Professor:** [Seu nome]  
+**Curso:** Analise e Desenvolvimento de Sistemas
+**Semestre:** 2026/1
 
 **Objetivo da Aula:**  
 Compreender a organização da disciplina, seus objetivos e sua relação com o perfil profissional.
